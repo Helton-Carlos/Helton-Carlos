@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Helton Carlos
 
 - 🔭 Front-end
-- 🏢 Melhor Envio(Remoto)
-- 🖥️ Estudando JavaScript
+- 🏢 Melhor Envio(Remoto, Vue JS)
+- 🖥️ JavaScript/TypeScript
 
   
 <div style="display: inline_block"><br>
