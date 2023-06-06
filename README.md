@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Helton Carlos.
 
 - 🔭 Front-end
-- 🏢 Melhor Envio(Remoto, Vue JS)
+- 🏢 Melhor Envio
 - 🖥️ JavaScript/TypeScript
 
   
