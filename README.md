@@ -4,6 +4,16 @@
 - 🏢 Melhor Envio
 - 🖥️ JavaScript/TypeScript
 
+<div>
+<br>
+  <div align=center>
+    <h2><b>📍 Quantidade de visitas </b></h2>
+  </div>
+      
+  <p align="center" >   
+    <img src="https://profile-counter.glitch.me/Helton-Carlos/count.svg" />  
+  </p>
+</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
