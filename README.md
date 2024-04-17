@@ -3,17 +3,6 @@
 - 🔭 Front-end
 - 🏢 Melhor Envio
 - 🖥️ JavaScript/TypeScript
-
-<div>
-<br>
-  <div align=center>
-    <h2><b>📍 Quantidade de visitas </b></h2>
-  </div>
-      
-  <p align="center" >   
-    <img src="https://profile-counter.glitch.me/Helton-Carlos/count.svg" />  
-  </p>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -29,6 +18,12 @@
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Adobe Xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
 </div>
+
+ ## Quantidade de visitas!
+    
+<p align="rigth" style="padding-top: 20px">   
+  <img src="https://profile-counter.glitch.me/Helton-Carlos/count.svg" />  
+</p>
   
 ## Onde me encontrar!
     
