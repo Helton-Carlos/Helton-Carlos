@@ -1,6 +1,6 @@
-## Olá! Eu sou a Helton Carlos.
+## Olá! Eu sou o Helton Carlos.
 
-- 🔭 Front-end
+- 🔭 Front-end(Vue.JS, Nuxt.JS).
 - 🏢 Melhor Envio
 - 🖥️ JavaScript/TypeScript
   
