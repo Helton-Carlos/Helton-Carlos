@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Helton Carlos.
 
-- 🔭 Front-end(Vue.JS, Nuxt.JS).
+- 🔭 Front-end(Vue.js, Nuxt.js, React.js e Next.js).
 - 🚀 Back-end(Node.js).
 - 🖥️ JavaScript/TypeScript
 - 🫶 Apaixonado por UX/UI
