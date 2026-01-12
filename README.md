@@ -38,5 +38,8 @@
   <a href="https://www.behance.net/heltonbrit71ac" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
   </a>
+  <a href="https://br.pinterest.com/heltinhobrito/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest">
+  </a>
 </div>
 
