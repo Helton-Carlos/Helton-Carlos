@@ -1,10 +1,22 @@
-## Olá! Eu sou o Helton Carlos.
+# Hi there! I'm Helton Brito 👋
 
-- 🔭 Front-end(Vue.js, Nuxt.js, React.js e Next.js).
-- 🚀 Back-end(Node.js).
-- 🖥️ JavaScript/TypeScript
-- 🫶 Apaixonado por UX/UI
-- 🏢 Remoto
+I'm a **Front-end Developer** with a solid 10-year background in **Graphic Design**. I combine my visual expertise with modern code to build objective, high-performance digital experiences.
+
+### 🚀 These days I'm focused on:
+* **Vue.js & Nuxt.js Ecosystem:** Deep diving into Nuxt 4 and high-performance front-end architectures.
+* **UX/UI Design:** Bridging the gap between interface aesthetics and functional development.
+* **Node.js:** Crafting robust and scalable APIs to power seamless, end-to-end digital solutions.
+
+### 🛠️ Some stuff I'm building:
+* **Task Manager** – A full-stack application built with Nuxt 4, TypeScript, TailwindCSS, and Node.js to streamline productivity.
+* **Rental Doc** – A service concept designed to automate rental contracts and digital signatures.
+* **SeuRH** – A mobile application developed with React Native and Expo focused on HR management.
+
+### 🎸 Fun facts:
+* **Punk Rock Soul:** When I'm not coding, I’m playing guitar in my band, **Ciçupia Hard Core**.
+* **Design Roots:** I spent a decade as a graphic designer before falling in love with web development.
+* **Active Learner:** I'm constantly practicing my English to bridge the gap between passive understanding and active fluency.
+* **Hobbyist:** I enjoy exploring new tech, making music, and keeping the creative juices flowing.
   
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
