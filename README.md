@@ -17,6 +17,8 @@ I'm a **Front-end Developer** with a solid 10-year background in **Graphic Desig
 * **Design Roots:** I spent a decade as a graphic designer before falling in love with web development.
 * **Active Learner:** I'm constantly practicing my English to bridge the gap between passive understanding and active fluency.
 * **Hobbyist:** I enjoy exploring new tech, making music, and keeping the creative juices flowing.
+
+Without God, there is no glory.
   
 <table border="0">
   <tr>
