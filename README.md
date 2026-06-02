@@ -7,11 +7,6 @@ I'm a **Front-end Developer** with a solid 10-year background in **Graphic Desig
 * **UX/UI Design:** Bridging the gap between interface aesthetics and functional development.
 * **Node.js:** Crafting robust and scalable APIs to power seamless, end-to-end digital solutions.
 
-### 🛠️ Some stuff I'm building:
-* **Task Manager** – A full-stack application built with Nuxt 4, TypeScript, TailwindCSS, and Node.js to streamline productivity.
-* **Rental Doc** – A service concept designed to automate rental contracts and digital signatures.
-* **SeuRH** – A mobile application developed with React Native and Expo focused on HR management.
-
 ### 🎸 Fun facts:
 * **Punk Rock Soul:** When I'm not coding, I’m playing guitar in my band, **Ciçupia Hard Core**.
 * **Design Roots:** I spent a decade as a graphic designer before falling in love with web development.
@@ -41,7 +36,7 @@ Without God, there is no glory.
 
 ## Onde me encontrar!
     
-<div style="display: flex; gap: 14px;">
+<div style="display: flex; gap: 14px; margin-bottom:14px">
   <a href="https://www.heltonbrito.com.br/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Meu site">
   </a>
@@ -58,4 +53,6 @@ Without God, there is no glory.
     <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest">
   </a>
 </div>
+
+![Sinal de possitivo](https://tenor.com/pt-BR/view/yu-yu-hakusho-like-thumps-up-good-job-nice-job-gif-21308212.gif)
 
