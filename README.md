@@ -3,15 +3,10 @@
 I'm a **Front-end Developer** with a solid 10-year background in **Graphic Design**. I combine my visual expertise with modern code to build objective, high-performance digital experiences.
 
 ### 🚀 These days I'm focused on:
-* **Vue.js & Nuxt.js Ecosystem:** Deep diving into Nuxt 4 and high-performance front-end architectures.
-* **UX/UI Design:** Bridging the gap between interface aesthetics and functional development.
-* **Node.js:** Crafting robust and scalable APIs to power seamless, end-to-end digital solutions.
-
-### 🎸 Fun facts:
-* **Punk Rock Soul:** When I'm not coding, I’m playing guitar in my band, **Ciçupia Hard Core**.
-* **Design Roots:** I spent a decade as a graphic designer before falling in love with web development.
-* **Active Learner:** I'm constantly practicing my English to bridge the gap between passive understanding and active fluency.
-* **Hobbyist:** I enjoy exploring new tech, making music, and keeping the creative juices flowing.
+- **Vue.js, Nuxt.js, React & Next.js:** Building high-performance and scalable web applications.
+- **Vite, Vitest & Testing Library:** Modern tooling, testing, and code quality.
+- **UX/UI Design:** Creating intuitive and user-centered digital experiences.
+- **Node.js:** Developing robust and scalable backend solutions.
 
 ---
 
