@@ -30,6 +30,7 @@ I'm a **Front-end Developer** with a solid 10-year background in **Graphic Desig
     <td align="right"><strong>Backend:</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJs" height="25" width="35" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" height="25" width="35" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="25" width="35" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" height="25" width="35" />
     </td>
